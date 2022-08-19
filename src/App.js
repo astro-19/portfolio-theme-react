@@ -3,12 +3,12 @@ import {Helmet} from 'react-helmet'
 
 const App = () => {
 
-  const title = "Pushkar Pandey Portfolio"
+  const title = "Portfolio theme react"
   return (
     <>
       <Helmet><title>{title}</title></Helmet>
       <div>
-        Pushkar Pandey
+        Portfolio
       </div>
     </>
   )
